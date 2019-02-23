@@ -1,0 +1,54 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Drew Johnson"
+
+# URL
+baseurl:            "/drewj"
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           rdiscount
+
+# Navigation
+nav:
+  - name:           "Home"
+    href:           ""
+    local:          true
+  - name:           "Research"
+    href:           "research"
+    local:          true
+  - name:           "Teaching"
+    href:           "teaching"
+    local:          true
+  - name:           "CV"
+    href:           "cv"
+    local:          true
+  - name:           "Math Links"
+    href:           "links"
+    local:          true
+  - name:           "U of O Math"
+    href:           "math.uoregon.edu"
+    local:          false
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"

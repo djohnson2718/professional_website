@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+  </head>
+<body>
+  <div class="container">
+    <header class="masthead">        
+  <h1 class="masthead-title">
+    <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s webpage</span></a>
+  </h1>
+  <nav class="masthead-nav">
+    {% for nav in site.nav %}
+    <a href= "{% if nav.local %}{{ site.baseurl }}/{% else %}http://{% endif %}{{ nav.href }}">{{ nav.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
+    <p><b> I have moved to ETH Zurich! This site is no longer maintained. Find my current site <a href="https://n.ethz.ch/~jjohnson/"> here </a>.  </b></p>
+    
+     
+    {{ content }}
+  </div>
+</body>
+</html>
