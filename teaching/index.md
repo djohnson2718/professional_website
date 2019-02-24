@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Teaching at U of O
+title: Teaching
 ---
+I am not teaching courses at ETH. Below, you can find some links to past classes at the University of Oregon. For a full list of teaching experience, see my CV.
+
 
 For course information, please click on the links below to access Canvas.
 ### Fall 2018

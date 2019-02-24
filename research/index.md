@@ -6,7 +6,7 @@ title: Research
 My research interests are in algebraic geometry. Below is a description of some of my projects.
 
 ### Moduli spaces of Non-special curves
-My most recent paper, joint with Alexander Polishchuk is [Birational models of M_2,2 arising as moduli of curves with nonspecial divisors](https://arxiv.org/abs/1807.09746). We give geometric characterizations of the stable curves for various stability conditions, and then use the explicit coordinates to show that one of the moduli spaces is the blow down of the Weierstrass divisor.
+My most recent paper, joint with Alexander Polishchuk is [Birational models of M_2,2 arising as moduli of curves with nonspecial divisors](https://arxiv.org/abs/1807.09746). Our paper will appear in Advances in Geometry. We give geometric characterizations of the stable curves for various stability conditions, and then use the explicit coordinates to show that one of the moduli spaces is the blow down of the Weierstrass divisor. 
 
 ### Strange duality
 This work is concerned with a conjecture of Le Potier about a "strange duality" for sections of theta bundles on moduli spaces of sheaves on surfaces. We considered the case of del Dezzo surfaces. Our result (joint with Aaron Bertram and Thomas Goller) provides supporting evidence for this conjecture by performing two very different computations: a computation of sections of the theta bundles on Hilbert schemes (via a theorem of Ellingsrud, Goettsche, and Lehn) and a multiple point computation (from a algorithm suggested by Marengell and Rimanyi). Surprisingly, these two computations match!
@@ -16,6 +16,8 @@ Our paper is on the arXiv: [Le Potier's strange duality, quot schemes, and multi
 My [thesis](http://content.lib.utah.edu/cdm/ref/collection/etd3/id/4206) contains some things not in the paper, such as a the full output of our computations, but the paper above should be preferred for most purposes.
 
 My more recent paper [Universal Series for Hilbert Schemes and Strange Duality](https://arxiv.org/abs/1708.05743) explains how the "finite quot scheme method" of strange duality for surfaces (used in our paper above) leads to conjectures connecting certain universal generating series. Parts of my conjecture have now been proved. See [here](https://arxiv.org/abs/1708.08129) and [here](https://arxiv.org/abs/1712.02382). 
+
+My current project, which has yielded some preliminary results, involves studying strange duality at the level of SL(3) representations induced by the action on the projective plan.
 
 ### Tropical Geometry
 I spent some time thinking about tropical geometry, where replacing multiplication and addition with addition and minimum produces a world where the combinatorial shadows of classical algebraic geometry can be seen. My paper is about understanding the conditions under which a tropical hypersurface is uniquely determined by incidence conditions. [Determining Tropical Hypersurfaces](https://arxiv.org/abs/1509.05815).

@@ -6,7 +6,7 @@
 name:               "Drew Johnson"
 
 # URL
-baseurl:            "/drewj"
+baseurl:            "/~jjohnson"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -30,9 +30,6 @@ nav:
   - name:           "Math Links"
     href:           "links"
     local:          true
-  - name:           "U of O Math"
-    href:           "math.uoregon.edu"
-    local:          false
 
 # Sass
 sass:

@@ -2,7 +2,7 @@
 layout: page
 ---
 
-[CV, updated Sept 2018](cv_sept2018.pdf) 
+[CV, updated Jan 2019](cv_jan_2019.pdf) 
 
 ### Some application materials from Fall 2018 job search:
 
