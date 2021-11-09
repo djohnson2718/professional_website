@@ -2,17 +2,17 @@
 layout: default
 ---
 
-Hi, you've reached Drew Johnson's professional webpage. I am currently doing postdoctoral work at [ETH Z&uuml;rich](https://www.math.ethz.ch) in Switzerland. My area of study is algebraic geometry.
+Hi, you've reached Drew Johnson's professional webpage. I am currently a visiting assistance professor at [Brigham Young University](http://math.byu.edu). My area of study is algebraic geometry.
 
-Previously, I was a Paul Olum postdoctoral fellow at the [University of Oregon](http://math.uoregon.edu). I received my PhD from the [University of Utah](http://math.utah.edu), and a BS and MS from [Brigham Young University](http://math.byu.edu).
+Previously, I was a did postdoctoral work at [ETH Z&uuml;rich](https://www.math.ethz.ch) in Switzerland and at the [University of Oregon](http://math.uoregon.edu). I received my PhD from the [University of Utah](http://math.utah.edu), and a BS and MS from [Brigham Young University](http://math.byu.edu).
 
 <img src="drewjohnsonpic.jpg" alt="Drew Johnson picture" style="width: 300px;"/>
 
 ### Contact
 
-*Office:* Hauptgeb&auml;ude (HG) G 27.1
+*Office:* TMCB 220
 
-*Email:* jared.johnson@math.ethz.ch 
+*Email:* d.johnson@mathematics.byu.edu
 
 _________________________________________________________________
 
