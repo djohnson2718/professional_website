@@ -5,6 +5,19 @@ title: Research
 
 My research interests are in algebraic geometry. Below is a description of some of my projects.
 
+### Some current work
+Right now I am thinking about a mirror symmetry theorem for non-abelian Landua-Ginzburg model. Look for a preprint soon!
+
+I'm also working on a project involving BHK mirror symmetry for K3 surfaces. See for example, [this](https://arxiv.org/abs/1704.00354).
+
+### Rationality of Generating Series for Quot schemes
+While at ETH, I collaborated on the following papers: 
+
+[Rationality of descendent series for Hilbert and Quot schemes of surfaces](https://arxiv.org/abs/2002.05861)
+
+[The virtual K-theory of Quot schemes of surfaces](https://arxiv.org/abs/2008.10661)
+
+
 ### Moduli spaces of Non-special curves
 My most recent paper, joint with Alexander Polishchuk is [Birational models of M_2,2 arising as moduli of curves with nonspecial divisors](https://arxiv.org/abs/1807.09746). Our paper will appear in Advances in Geometry. We give geometric characterizations of the stable curves for various stability conditions, and then use the explicit coordinates to show that one of the moduli spaces is the blow down of the Weierstrass divisor. 
 
@@ -17,7 +30,7 @@ My [thesis](http://content.lib.utah.edu/cdm/ref/collection/etd3/id/4206) contain
 
 My more recent paper [Universal Series for Hilbert Schemes and Strange Duality](https://arxiv.org/abs/1708.05743) explains how the "finite quot scheme method" of strange duality for surfaces (used in our paper above) leads to conjectures connecting certain universal generating series. Parts of my conjecture have now been proved. See [here](https://arxiv.org/abs/1708.08129) and [here](https://arxiv.org/abs/1712.02382). 
 
-My current project, which has yielded some preliminary results, involves studying strange duality at the level of SL(3) representations induced by the action on the projective plan.
+A related project involves [studying strange duality at the level of SL(3) representations](https://arxiv.org/abs/1911.10962) induced by the action on the projective plane.
 
 ### Tropical Geometry
 I spent some time thinking about tropical geometry, where replacing multiplication and addition with addition and minimum produces a world where the combinatorial shadows of classical algebraic geometry can be seen. My paper is about understanding the conditions under which a tropical hypersurface is uniquely determined by incidence conditions. [Determining Tropical Hypersurfaces](https://arxiv.org/abs/1509.05815).

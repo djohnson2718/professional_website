@@ -4,9 +4,7 @@ layout: page
 
 [CV, updated Oct 2021](cv_oct_2021.pdf) 
 
-### Some application materials from Fall 2018 job search:
-
-[Reseach statement](Research_statement2021.pdf)
+[Reseach statement](Research_statement_2021.pdf)
 
 [Teaching statement](teaching-statement2018.pdf)
 

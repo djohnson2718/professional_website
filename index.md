@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, you've reached Drew Johnson's professional webpage. I am currently a visiting assistance professor at [Brigham Young University](http://math.byu.edu). My area of study is algebraic geometry.
+Hi, you've reached Drew Johnson's professional webpage. I am currently a visiting assistant professor at [Brigham Young University](http://math.byu.edu). My area of study is algebraic geometry.
 
 Previously, I was a did postdoctoral work at [ETH Z&uuml;rich](https://www.math.ethz.ch) in Switzerland and at the [University of Oregon](http://math.uoregon.edu). I received my PhD from the [University of Utah](http://math.utah.edu), and a BS and MS from [Brigham Young University](http://math.byu.edu).
 
