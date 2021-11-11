@@ -6,7 +6,7 @@
 name:               "Drew Johnson"
 
 # URL
-baseurl:            "/~jjohnson"
+baseurl:            "/~djohnson"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
